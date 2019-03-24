@@ -88,7 +88,6 @@
             {"name": "ATtiny45"},
             {"name": "ATtiny85"},
             {"name": "ATtiny24"},
-            {"name": "ATtiny44"},
             {"name": "ATtiny84"}
           ]
         }
